@@ -1,6 +1,6 @@
 # redz Hub - Best Remake Version By MinhZ
 
-The Best Remake RedZ Hub Version And RedZ Library | Created By MinhZ
+The Best Remake redz Hub Version And redz Library | Created By MinhZ
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Roblox](https://img.shields.io/badge/platform-Roblox-red)
