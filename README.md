@@ -12,7 +12,7 @@ local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh1234ngudot/RedZ-Hub/refs/heads/main/redz-Hub.lua"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh1234ngudot/redz-Hub/refs/heads/main/redz-Hub.lua"))(Settings)
 ```
 ## 🤝 Credits
 
