@@ -1,4 +1,4 @@
-# RedZ Hub - Best Remake Version By MinhZ
+# redz Hub - Best Remake Version By MinhZ
 
 The Best Remake RedZ Hub Version And RedZ Library | Created By MinhZ
 
@@ -6,13 +6,13 @@ The Best Remake RedZ Hub Version And RedZ Library | Created By MinhZ
 ![Roblox](https://img.shields.io/badge/platform-Roblox-red)
 
 ## ⭐ Scripts ⭐
-### RedZ Hub (Copied In Below)
+### redz Hub (Copied In Below)
 ```lua
 local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh1234ngudot/RedZ-Hub/refs/heads/main/RedZ-Hub.lua"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh1234ngudot/RedZ-Hub/refs/heads/main/redz-Hub.lua"))(Settings)
 ```
 ## 🤝 Credits
 
